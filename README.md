@@ -30,7 +30,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ / ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/teamayushi/Ayesha-Music/blob/main/sample.env)
+- Get your [Necessary Variables](https://github.com/BADNAM07123/Kushi_music/blob/main/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg & Python by :
