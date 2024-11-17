@@ -1,4 +1,4 @@
-#<<<<<<<<<<<<<<Krish>>>>>>>>>>>>>>#
+#<<<<<<<<<<<<<<SONALI>>>>>>>>>>>>>>#
 #<<<<<<<<<<<<<<>>>>>>>>>>>>>>#
 import os
 from PIL import ImageDraw, Image, ImageFont, ImageChops
